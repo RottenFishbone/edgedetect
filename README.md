@@ -1,3 +1,7 @@
+# Disclaimer
+
+This was a university project in in image manipulation and is *definitely* not production quality. That said, it might provide some useful techniques/insights and *is* fully functional.
+
 # edgedetect
 
 A small linux utility to apply edge detection on images.
