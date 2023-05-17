@@ -1,10 +1,13 @@
 # Disclaimer
 
-This was a university project in in image manipulation and is *definitely* not production quality. That said, it might provide some useful techniques/insights and *is* fully functional.
+This is a toy for basic image manipulation and is *definitely* not production quality. That said, it might provide some useful techniques/insights and *is* fully functional.
 
 # edgedetect
 
 A small linux utility to apply edge detection on images.
+
+Edge detection is provided through CPU-executed convolution kernels on grayscale images. Thus,
+the output will always be grayscale (using the [luminosity method](https://mmuratarat.github.io/2020-05-13/rgb_to_grayscale_formulas)).
 
 ### Compilation
 
